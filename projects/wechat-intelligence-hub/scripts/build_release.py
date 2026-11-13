@@ -15,6 +15,8 @@ ROOT_FILES = {
     "README.md",
     "SECURITY.md",
     "intelligence_views.py",
+    "message_identity.py",
+    "message_time.py",
     "maintenance.py",
     "opportunity_store.py",
     "report_bundle_flagship.py",
